@@ -1,0 +1,8 @@
+
+
+This is a simple library used to serialize data and write it to a file. It 
+provides methods for recording (rec) and retrieving (ret) standard types, and
+these routines are used to build rec and ret routines for custom types. See
+the examples directory for a demonstration.
+
+
